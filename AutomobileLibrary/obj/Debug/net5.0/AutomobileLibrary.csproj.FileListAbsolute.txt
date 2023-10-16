@@ -1,0 +1,11 @@
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\refint\AutomobileLibrary.dll
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
+D:\FU_FALL23\PRN211\Demo\AutomobileSolution\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll
